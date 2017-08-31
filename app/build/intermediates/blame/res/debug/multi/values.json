@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/sonworks/Documents/ScrollingTextViewSample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/ScrollingTextViewSample/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 821,
+                        "endColumn": 36,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 54,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/ScrollingTextViewSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 54,
+                        "endOffset": 874
+                    }
+                }
+            }
+        ]
+    }
+]

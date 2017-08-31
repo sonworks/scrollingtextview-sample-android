@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sonworks/Documents/ScrollingTextViewSample/app/build/intermediates/res/merged/debug/drawable-hdpi/sliding.png",
+        "source": "/Users/sonworks/Documents/ScrollingTextViewSample/app/src/main/res/drawable-hdpi/sliding.png"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/ScrollingTextViewSample/app/build/intermediates/res/merged/debug/drawable-hdpi/sliding_title.png",
+        "source": "/Users/sonworks/Documents/ScrollingTextViewSample/app/src/main/res/drawable-hdpi/sliding_title.png"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/ScrollingTextViewSample/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/sonworks/Documents/ScrollingTextViewSample/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/ScrollingTextViewSample/app/build/intermediates/res/merged/debug/drawable-hdpi/sliding_body.png",
+        "source": "/Users/sonworks/Documents/ScrollingTextViewSample/app/src/main/res/drawable-hdpi/sliding_body.png"
+    }
+]

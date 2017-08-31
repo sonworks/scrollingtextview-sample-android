@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#6B8E23</color>
+    <string name="app_name">ScrollingTextView</string>
+</resources>
